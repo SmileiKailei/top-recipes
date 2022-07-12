@@ -1,2 +1,2 @@
 # top-recipes
-recipe website for html practice
+Recipe website for html practice from the Odin Project
