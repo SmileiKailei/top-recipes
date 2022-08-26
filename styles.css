@@ -1,26 +1,27 @@
 html {
     color: rgb(80, 18, 80);
     background-color: rgb(255, 139, 76);
-    font-family: Garamond, serif;
-    
+    font-family: Garamond, serif; 
 }
 #contents {
     display: block;
     border: 6px solid rgb(7, 78, 42);
-    padding: 12px;
-    width: max(75%);
-    margin-left: 150px;
-    text-align: left;
+    padding: 16px;
+    width: 800px;
+    margin: auto;
 }
 
 img {
     height: auto;
     width: 500px;
-    text-align: center;
-
 }
 
 h1 {
     color: rgb(55, 10, 10);
+}
 
+.picanddesc {
+    display: block;
+    margin: auto;
+    padding: 100px;
 }
