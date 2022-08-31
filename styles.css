@@ -1,7 +1,7 @@
 html {
     color: rgb(80, 18, 80);
     background-color: rgb(255, 139, 76);
-    font-family: Garamond, serif; 
+    font-family: "Brush Script MT", Garamond, "Times New Roman",  serif; 
 }
 #contents {
     display: block;
@@ -11,17 +11,14 @@ html {
     margin: auto;
 }
 
-img {
-    height: auto;
-    width: 500px;
-}
-
 h1 {
     color: rgb(55, 10, 10);
 }
 
-.picanddesc {
+.picanddesc img {
     display: block;
+    width: 500px;
+    height: auto;
     margin: auto;
-    padding: 100px;
+    padding: 10px;
 }
